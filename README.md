@@ -4,11 +4,11 @@ Lista efetuada em C++ aplicada a disciplina de Linguagem de programação 1 para
 
 Use o comando Make para facilitar a compilação e execução de todos os programas:
 
-Make: Compila todos os programas;
+make: Compila todos os programas;
 
-Make go: Executa o programa;
+make go: Executa o programa;
 
-Make clean: Remove o arquivo program da pasta;
+make clean: Remove o arquivo program da pasta;
 
 Instruções utilizadas para a criação dos programas:
 
